@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ultimate-weather-app/static/css/main.79a05051.css",
+    "main.js": "/ultimate-weather-app/static/js/main.1c9517fb.js",
+    "static/js/787.d9312eb8.chunk.js": "/ultimate-weather-app/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/ultimate-weather-app/index.html",
+    "main.79a05051.css.map": "/ultimate-weather-app/static/css/main.79a05051.css.map",
+    "main.1c9517fb.js.map": "/ultimate-weather-app/static/js/main.1c9517fb.js.map",
+    "787.d9312eb8.chunk.js.map": "/ultimate-weather-app/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79a05051.css",
+    "static/js/main.1c9517fb.js"
+  ]
+}
