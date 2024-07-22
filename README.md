@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Weather App is a React-based application that provides weather information using multiple weather APIs. It fetches data from WeatherAPI, Weatherbit, and AccuWeather, compares the results, and displays the most probable weather condition.
+The Ultimate Weather App is a React-based application that provides weather information using multiple weather APIs. It fetches data from WeatherAPI, Weatherbit, and AccuWeather, compares the results, and displays the most probable weather condition.
 
 ## Features
 
@@ -55,7 +55,8 @@ The Weather App is a React-based application that provides weather information u
     ```bash
 
     npm start
-    Open your browser and go to http://localhost:3000 to view the app.
+    
+ 5. Open your browser and go to http://localhost:3000 to view the app.
 
 ## Usage
 
@@ -82,6 +83,6 @@ The Weather App is a React-based application that provides weather information u
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-WeatherAPI
-Weatherbit
-AccuWeather
+- WeatherAPI
+- Weatherbit
+- AccuWeather
