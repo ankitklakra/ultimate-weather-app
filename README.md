@@ -2,7 +2,9 @@
 
 ## Overview
 
-The Ultimate Weather App is a React-based application that provides weather information using multiple weather APIs. It fetches data from WeatherAPI, Weatherbit, and AccuWeather, compares the results, and displays the most probable weather condition.
+The Ultimate Weather App is a React-based application that provides weather information using multiple weather APIs. It fetches data from WeatherAPI, Weatherbit, and AccuWeather, compares the results, and displays the most probable weather condition. 
+
+live website at https://ankitklakra.github.io/ultimate-weather-app/
 
 ## Features
 
