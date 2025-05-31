@@ -2,6 +2,10 @@
 
 A modern, responsive weather application built with React and Material-UI that provides real-time weather information, forecasts, and air quality data.
 
+## Live Demo 🌐
+
+Check out the live application: [Ultimate Weather App](https://ultimateweather.netlify.app/)
+
 ## Features 🌟
 
 - 🌍 **Current Location Weather**: Automatically detects and displays weather for your current location
@@ -53,6 +57,12 @@ A modern, responsive weather application built with React and Material-UI that p
    REACT_APP_OPENWEATHER_API_KEY=your_openweather_api_key
    REACT_APP_UNSPLASH_API_KEY=your_unsplash_api_key
    ```
+   
+   You can use `.env.example` as a template:
+   ```bash
+   cp .env.example .env
+   ```
+   Then edit `.env` with your actual API keys.
 
 4. Start the development server:
    ```bash
